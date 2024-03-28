@@ -18,14 +18,17 @@
 
 2. Open the project directory.
    ```
-   3. Install dependencies.
+    Install dependencies.
    ```
 
 3. DiscordClone
 - Open in your terminal
-   ...
-   npm run start
-   ...
+  ```
+     nom run start
+   ```
+
+
+   
 
 ## ℹ Infos
 
