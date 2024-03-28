@@ -39,4 +39,4 @@ Made by Aman Nayak 🙂
 - [Instagram](https://www.instagram.com/letscodeeweb/)
 
 # Screen Shot
-- ![DiscordClone](https://github.com/amanayak/Discord-Clone/assets/155058144/61718990-e5d5-4b04-b639-22aa6b02144b)
+![DiscordClone](https://github.com/amanayak/Discord-Clone/assets/155058144/76a2f092-b267-4567-b439-bec45c72dcd7)
