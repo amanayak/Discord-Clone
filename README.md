@@ -7,8 +7,6 @@
 - **Tailwind CSS**: A utility-first CSS framework used for styling components with a focus on simplicity and flexibility.
 
 
-# DiscordClone
-- Open in your terminal, provide 'npm run start' command to run.
 
 
 ## Setup
@@ -20,10 +18,14 @@
 
 2. Open the project directory.
    ```
-   cd youtube-clone
+   3. Install dependencies.
    ```
 
-3. Open `index.html` file in your web browser or use a local server to run the project.
+3. DiscordClone
+- Open in your terminal
+   ...
+   npm run start
+   ...
 
 ## ℹ Infos
 
