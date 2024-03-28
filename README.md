@@ -13,7 +13,7 @@
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/youtube-clone.git
+   git clone https://github.com/amanayak/Discord-Clone.git
    ```
 
 2. Open the project directory.
